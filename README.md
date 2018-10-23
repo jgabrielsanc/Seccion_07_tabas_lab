@@ -1,1 +1,1 @@
-# Seccion_07_tabas_lab
+# Seccion_07_tabs_lab
