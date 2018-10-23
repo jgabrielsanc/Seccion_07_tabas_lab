@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity implements OnPersonCreated {
     private TabLayout tabLayout;
     private ViewPager viewPager;
     private ViewPagerAdapter adapter;
-    git add README.md
     public static final int PERSON_FORM_FRAGMENT = 0;
     public static final int PERSON_LIST_FRAGMENT = 1;
 
